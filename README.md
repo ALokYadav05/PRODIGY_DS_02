@@ -13,8 +13,7 @@ This project involves **Exploratory Data Analysis (EDA)** and **Data Cleaning** 
 - Source: [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic/data)
 - Files used:
   - `train.csv`
-  - `test.csv` (optional if you did prediction or model building)
-
+    
 ---
 
 ## ✨ Project Highlights
@@ -28,7 +27,6 @@ This project involves **Exploratory Data Analysis (EDA)** and **Data Cleaning** 
   - Family size (SibSp + Parch)
   - Embarked location
 - Correlation heatmap and survival rate bar plots.
-- Created new features like `FamilySize`, `IsAlone`, and `Title`.
 
 ---
 
@@ -49,6 +47,7 @@ Used Python libraries such as:
 - **Pandas** for data manipulation
 - **Matplotlib & Seaborn** for visualization
 - **NumPy** for numerical operations
+- **SeaBorn** for visulization
 
 Key visualizations:
 
